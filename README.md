@@ -1,4 +1,4 @@
-# 🤖 Bot Discord — Sztywne Gity
+# 🤖 Bot Discord — Scoutinho Team
 
 ## Co robi bot?
 - ✅ Tworzy kanały komendą `!setup`
