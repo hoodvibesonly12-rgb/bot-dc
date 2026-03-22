@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 # ========================
 #        KONFIGURACJA
 # ========================
-TOKEN = os.getenv(MTQ4NTIzMzkyMDc1OTgyODU5MA.GwLyuP.aLADGn-vsEgu9ohfDCfzk5-tmlCDPWa58EzJZc)
+TOKEN = os.getenv(TOKEN)
 GUILD_ID = 1476578879618547805
 
 # Kanały
